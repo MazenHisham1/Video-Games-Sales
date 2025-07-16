@@ -47,3 +47,8 @@ The dataset contains information about video game sales from the 1980s to  2020.
 - `numpy` for numerical operations
 ---
 
+## 📄 License
+
+This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
+
+---
